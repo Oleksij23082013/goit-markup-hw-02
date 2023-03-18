@@ -1,5 +1,20 @@
+:root {
+	--color-iris: #4d5ae5;
+	--color-ocean: #404bbf;
+	--color-navy-blue: #2e2f42;
+	--color-green: #31d0aa;
+	--color-slate: #434455;
+	--color-light-slate: #8e8f99;
+	--color-cornflower: #e7e9fc;
+	--color-cloud: #f4f4fd;
+	--color-navy-blue-modal: #2e2f42;
+	--color-grey: #2e2f42;
+}
+
 body {
 font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 .list {
@@ -18,6 +33,16 @@ background-color: #FFFFFF;
 .header-navigation {
 }
 .header-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .header-list {
 }
@@ -76,8 +101,8 @@ align-items: center;
 letter-spacing: 0.04em;
 text-transform: uppercase;
 color: #FFFFFF;
-cursor: pointer;
 background: #4D5AE5;
+cursor: pointer;
 }
 
 /*-------------------Priopity-----------------------*/
@@ -141,6 +166,7 @@ color: #2E2F42;
 }
 
 .team-item {
+background: #FFFFFF;
 }
 
 .team-top-text {
@@ -157,6 +183,65 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.50;
 text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*-------------------Filter-----------------------*/
+
+.filter {
+background-color: #FFFFFF;
+}
+
+.filter-item {
+
+}
+
+.filter-btn {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.50;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+background-color: #F4F4FD;
+cursor: pointer;
+}
+
+.filter-btn:hover {
+background: #404BBF;
+}
+.filter-btn:focus {
+background: #404BBF;
+}
+
+/*-------------------Works-----------------------*/
+
+.works {
+    background-color: #FFFFFF;
+}
+.works-list {
+}
+
+.filter-item {
+}
+
+
+.works-top-text {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.20;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.works-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
 letter-spacing: 0.02em;
 color: #434455;
 }
