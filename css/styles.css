@@ -132,10 +132,10 @@ cursor: pointer;
 }
 
 .hero-btn:hover {
-color: #404BBF;
+background-color: #404BBF;
 }
 .hero-btn:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 
 /*-------------------Priopity-----------------------*/
@@ -231,7 +231,7 @@ background-color: #FFFFFF;
 }
 
 .filter-btn {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -240,16 +240,18 @@ display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
-color: #FFFFFF;
+color: #4d5ae5;
 background-color: #F4F4FD;
 cursor: pointer;
 }
 
 .filter-btn:hover {
-background: #404BBF;
+color: #FFFFFF;
+background-color: #404BBF;
 }
 .filter-btn:focus {
-background: #404BBF;
+color: #FFFFFF;
+background-color: #404BBF;
 }
 
 /*-------------------Works-----------------------*/
