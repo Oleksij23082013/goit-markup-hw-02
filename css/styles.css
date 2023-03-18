@@ -1,0 +1,177 @@
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/*-------------------Header-----------------------*/
+
+.header {
+background-color: #FFFFFF;
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.header-address {
+font-style: normal;
+}
+.header-mail {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+.header-phone {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*-------------------Hero-----------------------*/
+
+
+.hero {
+background: rgba(46, 47, 66, 0.7);
+}
+
+.hero-title {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.hero-btn {
+font-family: inherit;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.50;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+color: #FFFFFF;
+cursor: pointer;
+background: #4D5AE5;
+}
+
+/*-------------------Priopity-----------------------*/
+
+
+.priority {
+}
+.priority-subtitle {
+}
+
+.priority-item {
+}
+.priority-top-text {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.20;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.priority-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*-------------------About-----------------------*/
+
+.about {
+background: #FFFFFF;
+}
+.about-subtitle {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.about-item {
+}
+
+/*-------------------Team-----------------------*/
+
+.team {
+background: #F4F4FD;
+}
+
+.team-subtitle {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.team-item {
+}
+
+.team-top-text {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.20;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.team-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*-------------------Footer-----------------------*/
+
+.footer {
+background: #2E2F42;
+}
+.footer-logo {
+}
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
