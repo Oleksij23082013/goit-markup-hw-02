@@ -71,7 +71,7 @@ color: #404bbf;
 .header-address {
 font-style: normal;
 }
-.header-mail {
+.header-address-mail {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.50;
@@ -79,14 +79,14 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.header-mail:hover {
+.header-address-mail:hover {
  color: #404bbf;
 }
-.header-mail:focus {
+.header-address-mail:focus {
 color: #404bbf;
 }
 
-.header-phone {
+.header-address-phone {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.50;
@@ -94,10 +94,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.header-phone:hover {
+.header-address-phone:hover {
 color: #404bbf;
 }
-.header-phone:focus {
+.header-address-phone:focus {
 color: #404bbf;
 }
 
