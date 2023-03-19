@@ -67,7 +67,7 @@ color: #404bbf;
 .header-address {
 font-style: normal;
 }
-.header-mail {
+.header-contacts {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.50;
@@ -75,25 +75,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.header-mail:hover {
+.header-contacts:hover {
 color: #404bbf;
 }
-.header-mail:focus {
-color: #404bbf;
-}
-
-.header-phone {
-font-weight: 400;
-font-size: 16px;
-line-height: 1.50;
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-.header-phone:hover {
-color: #404bbf;
-}
-.header-phone:focus {
+.header-contacts:focus {
 color: #404bbf;
 }
 
