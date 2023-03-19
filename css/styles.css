@@ -9,6 +9,7 @@
 	--color-cloud: #f4f4fd;
 	--color-navy-blue-modal: #2e2f42;
 	--color-grey: #2e2f42;
+    --brand-color: #3f51b5;
 }
 
 body {
@@ -75,7 +76,7 @@ color: #434455;
 }
 
 .header-mail:hover {
- color: #404bbf;
+color: #404bbf;
 }
 .header-mail:focus {
 color: #404bbf;
