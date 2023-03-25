@@ -316,8 +316,8 @@ color: #FFFFFF;
 background-color: var(--color-ocean);
 }
 .filter-btn:focus {
-color: #FFFFFF;
-background-color: var(--color-ocean);
+    color: #FFFFFF;
+    background-color: var(--color-ocean);
 }
 
 /*-------------------Works-----------------------*/
